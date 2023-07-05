@@ -1,0 +1,2 @@
+# testConfigureIntegration
+Configure the integration
